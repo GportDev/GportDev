@@ -19,6 +19,7 @@
   <img align="center" alt="MySql" height="40" width="50" src='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg'>
   <img align="center" alt="ReactJS" height="40" width="50" src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg'>
   <img align="center" alt="Bootstrap" height="40" width="50" src='https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg'>
+  <img align="center" alt="Figma" height="40" width="50" src='https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg'>
 </div>
 
 ##
