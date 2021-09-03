@@ -4,11 +4,12 @@
 - 🌱 I’m currently learning front-end development (React.JS with NodeJS and NextJS)
 - 😄 Pronouns: ele/dele (he/his) 
 - ⚡ Fun fact: I was pilot of Brasilian Air Force
+##
 
 <div>
   <a href="https://github.com/GportDev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GportDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GportDev&layout=compact&langs_count=16&theme=dark"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GportDev&layout=compact&langs_count=16&theme=dark"/>
 </div>
 <div style="display: inline-block"><br>
   <img align="center" alt="HTML5" height="40" width="50" src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg'>
