@@ -1,7 +1,7 @@
 ## Hi there, I'm Gabriel (GportDev)
 
-- 🔭 I’m currently searching for work.
-- 🌱 I’m currently learning front-end development (React.JS with NodeJS and NextJS)
+- 🔭 I’m currently working in DM Card.
+- 🌱 I’m currently learning Web devloppment, Blockchain developpment and Data Analysis. (Python, ReactJs, NextJs, Solidity)
 - 😄 Pronouns: ele/dele (he/his) 
 - ⚡ Fun fact: I was pilot of Brasilian Air Force
 ##
