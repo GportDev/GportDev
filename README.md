@@ -14,11 +14,12 @@
 <div style="display: inline-block"><br>
   <img align="center" alt="HTML5" height="40" width="50" src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg'>
   <img align="center" alt="CSS3" height="40" width="50" src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg'>
-  <img align="center" alt="Java-Scritp" height="40" width="50" src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg'>
+  <img align="center" alt="Java-Script" height="40" width="50" src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg'>
   <img align="center" alt="Python" height="40" width="50" src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg'>
   <img align="center" alt="MySql" height="40" width="50" src='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg'>
+  <img align="center" alt="MongoDB" height="40" width="50" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg'>
   <img align="center" alt="ReactJS" height="40" width="50" src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg'>
-  <img align="center" alt="Bootstrap" height="40" width="50" src='https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg'>
+  <img align="center" alt="Sass" height="40" width="50" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg'>
   <img align="center" alt="Figma" height="40" width="50" src='https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg'>
 </div>
 
