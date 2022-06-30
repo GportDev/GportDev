@@ -1,16 +1,21 @@
 ## Hi there, I'm Gabriel (GportDev)
 
-- 🔭 I’m currently working in DM Card.
+<p> <img src="https://komarev.com/ghpvc/?username=GportDev&color=blue" alt="profile views"/> </p>
+
+- 🔭 I’m currently working as intern in [DM](https://www.vocedm.com.br/portal/).
 - 🌱 I’m currently learning Web developpment, Blockchain developpment and Data Analysis. (Python, ReactJs, NextJs, Solidity)
-- 😄 Pronouns: ele/dele (he/his) 
-- ⚡ Fun fact: I was pilot of Brasilian Air Force
-##
+- ✈️ Fun fact: I was pilot of Brasilian Air Force 
+
+
+## ⚙️ Analitycs
 
 <div>
   <a href="https://github.com/GportDev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GportDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GportDev&layout=compact&langs_count=16&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GportDev&layout=compact&langs_count=16&theme=dark"/>
 </div>
+
+## 💻 Tech stacks
 <div style="display: inline-block"><br>
   <img align="center" alt="HTML5" height="40" width="50" src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg'>
   <img align="center" alt="CSS3" height="40" width="50" src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg'>
