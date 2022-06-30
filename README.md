@@ -1,11 +1,14 @@
 ## Hi there, I'm Gabriel (GportDev)
-
+<img align="right" height="320rem" src="https://raw.githubusercontent.com/gist/GportDev/b5e780d3b31778849cea51bc05bc86b5/raw/4f98892bbbc2753a256ce8b9022f9f88023c6268/GportDev-Logo-Card.svg"/>
 <p> <img src="https://komarev.com/ghpvc/?username=GportDev&color=blue" alt="profile views"/> </p>
 
 - 🔭 I’m currently working as intern in [DM](https://www.vocedm.com.br/portal/).
 - 🌱 I’m currently learning Web developpment, Blockchain developpment and Data Analysis. (Python, ReactJs, NextJs, Solidity)
 - ✈️ Fun fact: I was pilot of Brasilian Air Force 
-
+<br/>
+<br/>
+<br/>
+<br/>
 
 ## ⚙️ Analitycs
 
@@ -15,21 +18,29 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GportDev&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
+<br/>
+<br/>
+  
 ## 💻 Tech stacks
-<div style="display: inline-block"><br>
-  <img align="center" alt="HTML5" height="40" width="50" src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg'>
-  <img align="center" alt="CSS3" height="40" width="50" src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg'>
-  <img align="center" alt="Java-Script" height="40" width="50" src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg'>
-  <img align="center" alt="Python" height="40" width="50" src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg'>
-  <img align="center" alt="MySql" height="40" width="50" src='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg'>
-  <img align="center" alt="MongoDB" height="40" width="50" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg'>
-  <img align="center" alt="ReactJS" height="40" width="50" src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg'>
-  <img align="center" alt="Sass" height="40" width="50" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg'>
-  <img align="center" alt="Figma" height="40" width="50" src='https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg'>
-</div>
+![HTML5](https://img.shields.io/badge/-HTML5-2E3440?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-2E3440?style=flat&logo=css3)
+![SASS](https://img.shields.io/badge/-Sass-2E3440?style=flat&logo=sass)
+![Tailwind](https://img.shields.io/badge/-Tailwind-2E3440?style=flat&logo=tailwindcss)
+![Javascript](https://img.shields.io/badge/-Javascript-2E3440?style=flat&logo=javascript)
+![Typescript](https://img.shields.io/badge/-Typescript-2E3440?style=flat&logo=typescript)
+![Python](https://img.shields.io/badge/-Python3-2E3440?style=flat&logo=python)
+![GoLang](https://img.shields.io/badge/-Golang-2E3440?style=flat&logo=go)
+![ReactJS](https://img.shields.io/badge/-React.JS-2E3440?style=flat&logo=react)
+![NextJS](https://img.shields.io/badge/-Next.JS-2E3440?style=flat&logo=next.js)
+![Jest](https://img.shields.io/badge/-Jest-2E3440?style=flat&logo=jest)
+![NodeJS](https://img.shields.io/badge/-Node.JS-2E3440?style=flat&logo=node.js)
+![MySQL](https://img.shields.io/badge/-MySQL-2E3440?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-2E3440?style=flat&logo=mongodb)
+![GraphQL](https://img.shields.io/badge/-GraphQL-2E3440?style=flat&logo=graphql)
+![Figma](https://img.shields.io/badge/-Figma-2E3440?style=flat&logo=figma)
 
 ##
-  <!-- <a herf="" taget="_blank"><img src="" target="_blank"></a> -->
+
 <div>
   <a href="https://www.linkedin.com/in/gabriel-porteiro/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a herf="https://www.instagram.com/gb_porteiro/" taget="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
