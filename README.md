@@ -2,8 +2,8 @@
 <img align="right" height="320rem" src="https://raw.githubusercontent.com/gist/GportDev/b5e780d3b31778849cea51bc05bc86b5/raw/4f98892bbbc2753a256ce8b9022f9f88023c6268/GportDev-Logo-Card.svg"/>
 <p> <img src="https://komarev.com/ghpvc/?username=GportDev&color=blue" alt="profile views"/> </p>
 
-- 🔭 I’m currently working as intern in [DM](https://www.vocedm.com.br/portal/).
-- 🌱 I’m currently learning Web developpment, Blockchain developpment and Data Analysis. (Python, ReactJs, NextJs, Solidity)
+- 🔭 I’m currently working as Software Developer in [DM](https://www.vocedm.com.br/portal/).
+- 🌱 I’m currently learning TypeScript, NodeJS and Accounting.
 - ✈️ Fun fact: I was pilot of Brasilian Air Force 
 <br/>
 <br/>
