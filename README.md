@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as Software Developer in [DM](https://www.vocedm.com.br/portal/).
 - 🌱 I’m currently learning TypeScript, NodeJS and Accounting.
-- ✈️ Fun fact: I was pilot of Brasilian Air Force 
+- ✈️ Fun fact: I was pilot of Brazilian Air Force 
 <br/>
 <br/>
 <br/>
