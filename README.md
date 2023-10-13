@@ -12,10 +12,8 @@
 
 ## ⚙️ Analitycs
 
-<div>
-  <a href="https://github.com/GportDev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GportDev&layout=compact&langs_count=16&theme=dark"/>
-</div>
+![](https://github.com/GportDev/git-statics/blob/master/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/GportDev/git-statics/blob/master/generated/languages.svg#gh-dark-mode-only)
 
 <br/>
 <br/>
