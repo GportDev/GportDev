@@ -2,8 +2,8 @@
 <img align="right" height="320rem" src="https://raw.githubusercontent.com/gist/GportDev/b5e780d3b31778849cea51bc05bc86b5/raw/4f98892bbbc2753a256ce8b9022f9f88023c6268/GportDev-Logo-Card.svg"/>
 <p> <img src="https://komarev.com/ghpvc/?username=GportDev&color=blue" alt="profile views"/> </p>
 
-- 🔭 I’m currently majoring in Computer Science at [TTU](https://www.tntech.edu/)
-- 🌱 I’m currently learning C++ and NextJS.
+- 🔭 I’m a junior majoring in Computer Science at [TTU](https://www.tntech.edu/)
+- 🌱 I’m currently learning Data structures and Algorithms using C++.
 - ✈️ Fun fact: I was pilot of Brazilian Air Force 
 <br/>
 <br/>
@@ -32,6 +32,7 @@
 ![Jest](https://img.shields.io/badge/-Jest-2E3440?style=flat&logo=jest)
 ![NodeJS](https://img.shields.io/badge/-Node.JS-2E3440?style=flat&logo=node.js)
 ![MySQL](https://img.shields.io/badge/-MySQL-2E3440?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2E3440?style=flat&logo=postgreSQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-2E3440?style=flat&logo=mongodb)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-2E3440?style=flat&logo=graphql)
 ![Figma](https://img.shields.io/badge/-Figma-2E3440?style=flat&logo=figma)
