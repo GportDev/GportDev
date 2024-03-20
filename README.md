@@ -1,5 +1,4 @@
 ## Hi there, I'm Gabriel (GportDev)
-<img align="right" height="320rem" src="https://raw.githubusercontent.com/gist/GportDev/b5e780d3b31778849cea51bc05bc86b5/raw/4f98892bbbc2753a256ce8b9022f9f88023c6268/GportDev-Logo-Card.svg"/>
 <p> <img src="https://komarev.com/ghpvc/?username=GportDev&color=blue" alt="profile views"/> </p>
 
 - 🔭 I’m a junior majoring in Computer Science at [TTU](https://www.tntech.edu/)
