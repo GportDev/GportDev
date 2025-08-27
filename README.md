@@ -2,9 +2,9 @@
 <p> <img src="https://komarev.com/ghpvc/?username=GportDev&color=blue" alt="profile views"/> </p>
 
 - 🔭 I’m a senior majoring in Computer Science and Math at [TTU](https://www.tntech.edu/)
-- 🌱 I’m currently learning Flutter and sharpening my Python.
+- 🌱 I’m currently learning C# and sharpening my Python.
 - ✈️ Fun fact: I was pilot of Brazilian Air Force.
-- Generation Google Scholarship recipient 2024
+- Generation Google Scholarship Scholar in 2024
 <br/>
 <br/>
 <br/>
