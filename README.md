@@ -1,7 +1,7 @@
 ## Hi there, I'm Gabriel (GportDev)
 <p> <img src="https://komarev.com/ghpvc/?username=GportDev&color=blue" alt="profile views"/> </p>
 
-- 🔭 B.S in Computer Science and Math from [TTU](https://www.tntech.edu/)
+- 🔭 B.S in Computer Science with Minor in Math [TTU](https://www.tntech.edu/)
 - 🔥 Cooking with AI everyday
 - Generation Google Scholarship Scholar in 2024
 <br/>
