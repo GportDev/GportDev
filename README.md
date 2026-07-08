@@ -1,6 +1,7 @@
 ## Hi there, I'm Gabriel (GportDev)
 <p> <img src="https://komarev.com/ghpvc/?username=GportDev&color=blue" alt="profile views"/> </p>
 
+- Software Engineer at [SEO Gets](https://seogets.com)
 - 🔭 B.S in Computer Science with Minor in Math [TTU](https://www.tntech.edu/)
 - Generation Google Scholarship Scholar in 2024
 <br/>
